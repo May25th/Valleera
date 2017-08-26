@@ -1,0 +1,9 @@
+#server
+*.ropeproject
+*.pyc
+*.swp
+logs/
+*.bak
+*.idea/
+requirements.txt
+
